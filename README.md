@@ -93,7 +93,7 @@ int main() {
 ```
 # OUTPUT:
 <img width="558" height="498" alt="image" src="https://github.com/user-attachments/assets/511adf41-7672-47ee-8772-94faf1107668" />
-![Uploading image.png…]()
+<img width="543" height="514" alt="image" src="https://github.com/user-attachments/assets/67e7332e-c311-421e-9b72-eee2675f9174" />
 
 # RESULT:
 
